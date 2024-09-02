@@ -3,15 +3,16 @@ import {FaSearch} from "react-icons/fa";
 import "./SearchBar.css";
 import giftsData from "./gifts.json";
 
-export const SearchBar = () => {
+export const SearchBar = ({setResults}) => {
 
     const [input, setInput] = useState('');
 
     const handleChange = (value) => {
         setInput(value);
         const results = giftsData.filter((giftsData) => {
-            return value && giftsData && giftsData.Gift && giftsData.Gift.toLowerCase().includes(value);
+            return value && giftsData && giftsData.Gift && giftsData.Gift.toLowerCase().startsWith(value);
         })
+        setResults(results);
         console.log(results);
     }
 
