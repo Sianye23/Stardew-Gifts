@@ -1,122 +1,2634 @@
 [
   {
+    "Gift": "Acorn",
+    "Love": "",
+    "Like": "",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Aerinite",
+    "Love": "",
+    "Like": "Wizard",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Alamite",
+    "Love": "",
+    "Like": "Wizard",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Albacore",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Willy-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
+  },
+  {
+    "Gift": "Algae Soup",
+    "Love": "",
+    "Like": "Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Penny-Krobus",
+    "Hate": "Kent"
+  },
+  {
+    "Gift": "Amaranth",
+    "Love": "",
+    "Like": "Kent-Lewis-Pam-Shane-Pierre-Emily-Gus-Maru-Alex-Demetrius-Dwarf-Willy-Penny-Jodi-Sandy-Marnie-Robin-George-Krobus-Linus-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Vincent-Haley-Jas-Sam-Abigail-Caroline",
+    "Hate": "Elliott"
+  },
+  {
     "Gift": "Amethyst",
-    "Love": "Abigail-Clint-Dwarf-Emily"
+    "Love": "Emily-Dwarf-Abigail-Clint",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Jas-Gus-Maru-Alex-Sam-Demetrius-Willy-Penny-Elliott-Jodi-Sandy-Marnie-Robin-George-Krobus-Caroline-Sebastian-Harvey-Wizard-Evelyn",
+    "Neutral": "",
+    "Dislike": "Pierre-Linus-Leah",
+    "Hate": ""
+  },
+  {
+    "Gift": "Anchovy",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Willy-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
+  },
+  {
+    "Gift": "Ancient Fruit",
+    "Love": "",
+    "Like": "Kent-Pam-Shane-Demetrius-Elliott-Jodi-Sandy-Robin-Linus-Harvey-Leah",
+    "Neutral": "Lewis-Pierre-Emily-Gus-Maru-Alex-Sam-Dwarf-Willy-Penny-Marnie-George-Krobus-Caroline-Sebastian-Wizard-Evelyn-Clint",
+    "Dislike": "Vincent-Haley-Jas-Abigail",
+    "Hate": ""
+  },
+  {
+    "Gift": "Angler",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Willy-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
+  },
+  {
+    "Gift": "Apple",
+    "Love": "",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "",
+    "Hate": ""
+  },
+  {
+    "Gift": "Apricot",
+    "Love": "",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "",
+    "Hate": ""
   },
   {
     "Gift": "Aquamarine",
-    "Love": "Clint-Dwarf-Emily"
+    "Love": "Emily-Dwarf-Clint",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Jas-Gus-Maru-Alex-Sam-Demetrius-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Sebastian-Harvey-Wizard-Evelyn",
+    "Neutral": "",
+    "Dislike": "Pierre-Linus-Leah",
+    "Hate": ""
+  },
+  {
+    "Gift": "Artichoke",
+    "Love": "",
+    "Like": "Kent-Lewis-Pam-Shane-Pierre-Emily-Gus-Maru-Alex-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Vincent-Haley-Jas-Sam-Abigail",
+    "Hate": ""
   },
   {
     "Gift": "Artichoke Dip",
-    "Love": "Clint"
+    "Love": "Clint",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus",
+    "Hate": ""
   },
   {
     "Gift": "Autumn's Bounty",
-    "Love": "Marnie"
+    "Love": "Lewis",
+    "Like": "Kent-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus",
+    "Hate": ""
   },
   {
-    "Gift": "Banana Pudding",
-    "Love": "Abigail"
+    "Gift": "Baked Fish",
+    "Love": "",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Krobus",
+    "Hate": ""
+  },
+  {
+    "Gift": "Baryte",
+    "Love": "",
+    "Like": "Wizard",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Basalt",
+    "Love": "",
+    "Like": "Wizard",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Bat Wing",
+    "Love": "",
+    "Like": "",
+    "Neutral": "",
+    "Dislike": "",
+    "Hate": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint"
   },
   {
     "Gift": "Battery Pack",
-    "Love": "Maru"
+    "Love": "Maru",
+    "Like": "",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Hate": ""
   },
   {
     "Gift": "Bean Hotpot",
-    "Love": "Demetrius"
+    "Love": "Demetrius",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus",
+    "Hate": ""
   },
   {
     "Gift": "Beer",
-    "Love": "Pam-Shane"
+    "Love": "Pam-Shane",
+    "Like": "Kent-Lewis-Haley-Pierre-Emily-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "",
+    "Hate": "Vincent-Jas-Penny-Sebastian"
   },
   {
     "Gift": "Beet",
-    "Love": "Evelyn"
+    "Love": "Evelyn",
+    "Like": "Kent-Lewis-Pam-Shane-Pierre-Emily-Gus-Maru-Alex-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Vincent-Haley-Jas-Sam-Abigail",
+    "Hate": ""
+  },
+  {
+    "Gift": "Bixite",
+    "Love": "",
+    "Like": "Wizard",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Blackberry",
+    "Love": "",
+    "Like": "Kent-Pam-Shane-Demetrius-Elliott-Jodi-Sandy-Robin-Linus-Harvey-Leah",
+    "Neutral": "Lewis-Pierre-Emily-Gus-Alex-Sam-Dwarf-Willy-Penny-Marnie-George-Krobus-Caroline-Sebastian-Wizard-Evelyn",
+    "Dislike": "Vincent-Haley-Jas-Maru-Abigail-Clint",
+    "Hate": ""
   },
   {
     "Gift": "Blackberry Cobbler",
-    "Love": "Abigail"
+    "Love": "Abigail",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Penny-Elliott-Jodi-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus",
+    "Hate": ""
+  },
+  {
+    "Gift": "Blue Jazz",
+    "Love": "",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Harvey-Wizard-Evelyn-Leah",
+    "Neutral": "",
+    "Dislike": "Sebastian-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Blueberry",
+    "Love": "",
+    "Like": "Kent-Lewis-Pam-Shane-Demetrius-Elliott-Jodi-Sandy-Robin-Linus-Harvey-Leah",
+    "Neutral": "Pierre-Emily-Gus-Maru-Alex-Sam-Dwarf-Willy-Penny-Marnie-George-Krobus-Caroline-Sebastian-Wizard-Evelyn-Clint",
+    "Dislike": "Vincent-Haley-Jas-Abigail",
+    "Hate": ""
   },
   {
     "Gift": "Blueberry Tart",
-    "Love": "Jas"
+    "Love": "Linus",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Caroline-Sebastian-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus-Harvey",
+    "Hate": ""
+  },
+  {
+    "Gift": "Bok Choy",
+    "Love": "",
+    "Like": "Kent-Lewis-Pam-Shane-Pierre-Emily-Gus-Maru-Alex-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Vincent-Haley-Jas-Sam-Abigail",
+    "Hate": ""
+  },
+  {
+    "Gift": "Bread",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Wizard-Evelyn-Clint",
+    "Dislike": "Harvey",
+    "Hate": "Leah"
+  },
+  {
+    "Gift": "Bream",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Willy-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
+  },
+  {
+    "Gift": "Broken CD",
+    "Love": "",
+    "Like": "",
+    "Neutral": "",
+    "Dislike": "",
+    "Hate": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint"
+  },
+  {
+    "Gift": "Broken Glasses",
+    "Love": "",
+    "Like": "",
+    "Neutral": "",
+    "Dislike": "",
+    "Hate": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint"
+  },
+  {
+    "Gift": "Brown Egg",
+    "Love": "",
+    "Like": "Kent-Shane-Pierre-Alex-Sam-Demetrius-Jodi-Marnie-Linus-Leah",
+    "Neutral": "Lewis-Emily-Gus-Maru-Willy-Penny-Elliott-Sandy-Robin-George-Krobus-Caroline-Harvey-Evelyn-Clint",
+    "Dislike": "Vincent-Haley-Pam-Jas-Dwarf-Abigail-Wizard",
+    "Hate": "Sebastian"
+  },
+  {
+    "Gift": "Bruschetta",
+    "Love": "",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus",
+    "Hate": ""
+  },
+  {
+    "Gift": "Bug Meat",
+    "Love": "",
+    "Like": "",
+    "Neutral": "",
+    "Dislike": "",
+    "Hate": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint"
+  },
+  {
+    "Gift": "Bullhead",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Willy-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
   },
   {
     "Gift": "Cactus Fruit",
-    "Love": "Linus-Pam-Sandy"
+    "Love": "Pam-Sam-Linus",
+    "Like": "Kent-Lewis-Shane-Demetrius-Elliott-Jodi-Sandy-Robin-Harvey-Leah",
+    "Neutral": "Pierre-Emily-Gus-Maru-Alex-Dwarf-Willy-Penny-Marnie-George-Krobus-Caroline-Sebastian-Wizard-Evelyn-Clint",
+    "Dislike": "Vincent-Haley-Jas-Abigail",
+    "Hate": ""
   },
   {
-    "Gift": "Cauliflower",
-    "Love": "Maru"
+    "Gift": "Calcite",
+    "Love": "",
+    "Like": "Wizard",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Carp",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Willy-Evelyn"
+  },
+  {
+    "Gift": "Carp Surprise",
+    "Love": "",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Clint",
+    "Neutral": "",
+    "Dislike": "Krobus-Leah",
+    "Hate": ""
   },
   {
     "Gift": "Catfish",
-    "Love": "Willy"
+    "Love": "Willy",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
+  },
+  {
+    "Gift": "Cauliflower",
+    "Love": "Maru",
+    "Like": "Kent-Lewis-Pam-Shane-Pierre-Emily-Gus-Alex-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Vincent-Haley-Jas-Sam-Abigail",
+    "Hate": ""
+  },
+  {
+    "Gift": "Cave Carrot",
+    "Love": "",
+    "Like": "",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Celestine",
+    "Love": "",
+    "Like": "Wizard",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Chanterelle",
+    "Love": "",
+    "Like": "Linus-Harvey-Leah",
+    "Neutral": "Kent-Lewis-Pam-Emily-Gus-Maru-Alex-Demetrius-Penny-Abigail-Sandy-Marnie-Robin-George-Evelyn-Clint",
+    "Dislike": "Vincent-Haley-Shane-Pierre-Jas-Sam-Dwarf-Willy-Elliott-Jodi-Krobus-Caroline-Sebastian-Wizard",
+    "Hate": ""
+  },
+  {
+    "Gift": "Cheese",
+    "Love": "",
+    "Like": "Kent-Lewis-Haley-Pam-Shane-Pierre-Emily-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Harvey",
+    "Hate": "Vincent-Jas-Sebastian"
   },
   {
     "Gift": "Cheese Cauliflower",
-    "Love": "Maru"
+    "Love": "Maru",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Alex-Sam-Demetrius-Dwarf-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus",
+    "Hate": ""
+  },
+  {
+    "Gift": "Cherry",
+    "Love": "",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "",
+    "Hate": ""
   },
   {
     "Gift": "Chocolate Cake",
-    "Love": "Abigail-Evelyn-Jodi"
+    "Love": "Jodi-Abigail-Evelyn",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Penny-Elliott-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Wizard-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus-Harvey",
+    "Hate": ""
+  },
+  {
+    "Gift": "Chowder",
+    "Love": "",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Krobus",
+    "Hate": ""
+  },
+  {
+    "Gift": "Chub",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Willy-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
+  },
+  {
+    "Gift": "Clam",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Leah-Clint",
+    "Dislike": "",
+    "Hate": "Evelyn"
+  },
+  {
+    "Gift": "Clay",
+    "Love": "",
+    "Like": "",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Pam-Shane-Pierre-Emily-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Sandy-Robin-Krobus-Linus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Vincent-Haley-Jas-Abigail-Marnie-George-Sebastian-Evelyn"
   },
   {
     "Gift": "Cloth",
-    "Love": "Emily"
+    "Love": "Emily",
+    "Like": "Kent-Lewis-Haley-Pam-Shane-Pierre-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "",
+    "Hate": "Vincent-Jas-Sebastian"
+  },
+  {
+    "Gift": "Coal",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Clint",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah",
+    "Hate": "Sam"
+  },
+  {
+    "Gift": "Cockle",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Willy-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
   },
   {
     "Gift": "Coconut",
-    "Love": "Haley-Linus-Sandy"
+    "Love": "Haley-Linus",
+    "Like": "Kent-Lewis-Vincent-Pam-Shane-Jas-Demetrius-Elliott-Jodi-Sandy-Robin-Harvey-Leah",
+    "Neutral": "Pierre-Emily-Gus-Maru-Alex-Sam-Dwarf-Willy-Penny-Marnie-George-Krobus-Caroline-Sebastian-Wizard-Evelyn-Clint",
+    "Dislike": "Abigail",
+    "Hate": ""
   },
   {
     "Gift": "Coffee",
-    "Love": "Harvey"
+    "Love": "Harvey",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus",
+    "Hate": ""
+  },
+  {
+    "Gift": "Coleslaw",
+    "Love": "",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Maru-Alex-Sam-Demetrius-Dwarf-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus",
+    "Hate": "Gus"
+  },
+  {
+    "Gift": "Common Mushroom",
+    "Love": "",
+    "Like": "Linus-Harvey-Leah",
+    "Neutral": "Kent-Lewis-Pam-Emily-Gus-Alex-Demetrius-Penny-Abigail-Sandy-Marnie-Robin-George-Evelyn-Clint",
+    "Dislike": "Vincent-Haley-Shane-Pierre-Jas-Maru-Sam-Dwarf-Willy-Elliott-Jodi-Krobus-Caroline-Sebastian-Wizard",
+    "Hate": ""
   },
   {
     "Gift": "Complete Breakfast",
-    "Love": "Alex"
+    "Love": "Alex",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Sam-Demetrius-Dwarf-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus",
+    "Hate": "Sebastian"
+  },
+  {
+    "Gift": "Cookie",
+    "Love": "",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Wizard-Evelyn-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus-Harvey-Leah",
+    "Hate": ""
+  },
+  {
+    "Gift": "Copper Bar",
+    "Love": "",
+    "Like": "Maru-Clint",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Alex-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah",
+    "Hate": "Sam"
+  },
+  {
+    "Gift": "Copper Ore",
+    "Love": "",
+    "Like": "",
+    "Neutral": "",
+    "Dislike": "",
+    "Hate": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint"
+  },
+  {
+    "Gift": "Coral",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Robin-George-Krobus-Linus-Caroline-Sebastian-Wizard-Leah-Clint",
+    "Dislike": "Marnie",
+    "Hate": "Harvey-Evelyn"
+  },
+  {
+    "Gift": "Corn",
+    "Love": "",
+    "Like": "Kent-Lewis-Pam-Shane-Emily-Gus-Maru-Alex-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Vincent-Haley-Jas-Sam-Abigail",
+    "Hate": "Pierre"
+  },
+  {
+    "Gift": "Crab",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Willy-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
+  },
+  {
+    "Gift": "Crab Cakes",
+    "Love": "Elliott",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Krobus",
+    "Hate": ""
+  },
+  {
+    "Gift": "Cranberries",
+    "Love": "",
+    "Like": "Kent-Pam-Shane-Demetrius-Elliott-Jodi-Sandy-Robin-Linus-Harvey-Leah",
+    "Neutral": "Lewis-Pierre-Emily-Gus-Maru-Alex-Sam-Dwarf-Willy-Penny-Marnie-George-Krobus-Caroline-Sebastian-Wizard-Evelyn",
+    "Dislike": "Vincent-Haley-Jas-Abigail-Clint",
+    "Hate": ""
   },
   {
     "Gift": "Cranberry Candy",
-    "Love": "Vincent"
+    "Love": "Vincent",
+    "Like": "Kent-Lewis-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus",
+    "Hate": ""
+  },
+  {
+    "Gift": "Cranberry Sauce",
+    "Love": "",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus-Harvey",
+    "Hate": ""
+  },
+  {
+    "Gift": "Crayfish",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Willy-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
+  },
+  {
+    "Gift": "Crimsonfish",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Willy-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
   },
   {
     "Gift": "Crispy Bass",
-    "Love": "George"
+    "Love": "Jodi",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Krobus",
+    "Hate": ""
+  },
+  {
+    "Gift": "Crocus",
+    "Love": "Sandy",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Marnie-Robin-Krobus-Linus-Caroline-Harvey-Wizard-Evelyn-Leah",
+    "Neutral": "",
+    "Dislike": "George-Sebastian-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Crystal Fruit",
+    "Love": "",
+    "Like": "Kent-Pam-Shane-Demetrius-Elliott-Jodi-Sandy-Robin-Linus-Harvey-Leah",
+    "Neutral": "Lewis-Pierre-Emily-Gus-Alex-Sam-Dwarf-Willy-Penny-Marnie-George-Krobus-Caroline-Sebastian-Wizard-Evelyn-Clint",
+    "Dislike": "Vincent-Haley-Jas-Maru-Abigail",
+    "Hate": ""
+  },
+  {
+    "Gift": "Daffodil",
+    "Love": "Sandy",
+    "Like": "Kent-Vincent-Haley-Pam-Pierre-Emily-Jas-Gus-George-Linus-Caroline-Harvey-Evelyn-Leah",
+    "Neutral": "Lewis-Maru-Alex-Demetrius-Penny-Abigail-Marnie-Robin-Clint",
+    "Dislike": "Shane-Sam-Dwarf-Willy-Elliott-Krobus-Sebastian-Wizard",
+    "Hate": "Jodi"
+  },
+  {
+    "Gift": "Dandelion",
+    "Love": "",
+    "Like": "Pierre-Penny-Linus-Harvey-Leah",
+    "Neutral": "Kent-Lewis-Pam-Emily-Gus-Maru-Alex-Demetrius-Abigail-Sandy-Marnie-Robin-Evelyn-Clint",
+    "Dislike": "Vincent-Haley-Shane-Jas-Sam-Dwarf-Willy-Elliott-Krobus-Caroline-Sebastian-Wizard",
+    "Hate": "Jodi-George"
   },
   {
     "Gift": "Diamond",
-    "Love": "Evelyn-Jas-Kent-Krobus-Maru-Willy"
+    "Love": "Gus-Maru-Willy-Penny-Jodi-Marnie-Krobus-Evelyn",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Alex-Sam-Demetrius-Dwarf-Elliott-Abigail-Sandy-Robin-George-Linus-Caroline-Sebastian-Harvey-Wizard-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "",
+    "Hate": ""
+  },
+  {
+    "Gift": "Dinosaur Egg",
+    "Love": "",
+    "Like": "",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Hate": ""
   },
   {
     "Gift": "Dish O' The Sea",
-    "Love": "Sandy"
+    "Love": "Linus",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus",
+    "Hate": ""
+  },
+  {
+    "Gift": "Dolomite",
+    "Love": "",
+    "Like": "Wizard",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Dorado",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Willy-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
+  },
+  {
+    "Gift": "Driftwood",
+    "Love": "",
+    "Like": "Leah",
+    "Neutral": "",
+    "Dislike": "",
+    "Hate": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Clint"
+  },
+  {
+    "Gift": "Duck Egg",
+    "Love": "",
+    "Like": "Kent-Shane-Pierre-Alex-Sam-Demetrius-Jodi-Marnie-Linus-Harvey-Leah",
+    "Neutral": "Lewis-Emily-Gus-Maru-Willy-Penny-Elliott-Sandy-Robin-George-Krobus-Caroline-Evelyn-Clint",
+    "Dislike": "Vincent-Haley-Pam-Jas-Dwarf-Abigail-Wizard",
+    "Hate": "Sebastian"
   },
   {
     "Gift": "Duck Feather",
-    "Love": "Elliot-Leo"
+    "Love": "Elliott",
+    "Like": "Harvey",
+    "Neutral": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Wizard-Evelyn-Leah-Clint",
+    "Dislike": "Penny",
+    "Hate": ""
+  },
+  {
+    "Gift": "Duck Mayonnaise",
+    "Love": "",
+    "Like": "Kent-Lewis-Haley-Pam-Shane-Pierre-Emily-Gus-Maru-Alex-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Caroline",
+    "Hate": "Vincent-Jas-Sam-Sebastian"
+  },
+  {
+    "Gift": "Earth Crystal",
+    "Love": "",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Clint",
+    "Neutral": "",
+    "Dislike": "Pierre-Linus-Leah",
+    "Hate": ""
+  },
+  {
+    "Gift": "Eel",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Willy-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
+  },
+  {
+    "Gift": "Egg",
+    "Love": "",
+    "Like": "Kent-Shane-Pierre-Alex-Sam-Demetrius-Jodi-Marnie-Linus-Leah",
+    "Neutral": "Lewis-Emily-Gus-Maru-Willy-Penny-Elliott-Sandy-Robin-George-Krobus-Caroline-Harvey-Evelyn-Clint",
+    "Dislike": "Vincent-Haley-Pam-Jas-Dwarf-Abigail-Wizard",
+    "Hate": "Sebastian"
+  },
+  {
+    "Gift": "Eggplant",
+    "Love": "",
+    "Like": "Kent-Lewis-Pam-Shane-Pierre-Emily-Gus-Maru-Alex-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Vincent-Haley-Jas-Sam-Abigail",
+    "Hate": ""
   },
   {
     "Gift": "Eggplant Parmesan",
-    "Love": "George"
+    "Love": "Jodi",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Penny-Elliott-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus",
+    "Hate": ""
   },
   {
     "Gift": "Emerald",
-    "Love": "Clint-Dwarf-Emily-Penny"
+    "Love": "Emily-Dwarf-Clint",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Jas-Gus-Maru-Alex-Sam-Demetrius-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Sebastian-Harvey-Wizard-Evelyn",
+    "Neutral": "",
+    "Dislike": "Pierre-Linus-Leah",
+    "Hate": ""
   },
   {
     "Gift": "Escargot",
-    "Love": "Willy"
+    "Love": "Gus",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Maru-Alex-Sam-Demetrius-Dwarf-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus",
+    "Hate": ""
+  },
+  {
+    "Gift": "Esperite",
+    "Love": "",
+    "Like": "Wizard",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Evelyn-Leah-Clint",
+    "Hate": ""
   },
   {
     "Gift": "Fairy Rose",
-    "Love": "Evelyn-Jas"
+    "Love": "Jas-Evelyn",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-Krobus-Linus-Caroline-Harvey-Wizard-Leah",
+    "Neutral": "",
+    "Dislike": "George-Sebastian-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Fairy Stone",
+    "Love": "",
+    "Like": "Wizard",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Evelyn-Leah-Clint",
+    "Hate": ""
   },
   {
     "Gift": "Farmer's Lunch",
-    "Love": "Penny"
+    "Love": "Marnie",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Penny-Elliott-Jodi-Abigail-Sandy-Robin-George-Linus-Caroline-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus",
+    "Hate": "Sebastian"
+  },
+  {
+    "Gift": "Fiber",
+    "Love": "",
+    "Like": "",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Fiddlehead Fern",
+    "Love": "",
+    "Like": "Kent-Lewis-Pam-Shane-Pierre-Emily-Gus-Maru-Alex-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Vincent-Haley-Jas-Sam-Abigail",
+    "Hate": ""
+  },
+  {
+    "Gift": "Fiddlehead Risotto",
+    "Love": "Kent-Clint",
+    "Like": "Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus",
+    "Hate": ""
+  },
+  {
+    "Gift": "Field Snack",
+    "Love": "",
+    "Like": "",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Fire Opal",
+    "Love": "",
+    "Like": "Wizard",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Fire Quartz",
+    "Love": "",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Clint",
+    "Neutral": "",
+    "Dislike": "Pierre-Linus-Leah",
+    "Hate": ""
+  },
+  {
+    "Gift": "Fish Stew",
+    "Love": "",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Krobus",
+    "Hate": ""
+  },
+  {
+    "Gift": "Fish Taco",
+    "Love": "Gus-Caroline",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Jas-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Krobus",
+    "Hate": "Emily"
+  },
+  {
+    "Gift": "Fluorapatite",
+    "Love": "",
+    "Like": "Wizard",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Fried Calamari",
+    "Love": "Pierre",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Krobus",
+    "Hate": ""
+  },
+  {
+    "Gift": "Fried Eel",
+    "Love": "Jodi",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Harvey-Wizard-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Emily-Krobus",
+    "Hate": "Evelyn"
+  },
+  {
+    "Gift": "Fried Egg",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Clint",
+    "Dislike": "Leah",
+    "Hate": ""
+  },
+  {
+    "Gift": "Fried Mushroom",
+    "Love": "George",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-Linus-Caroline-Sebastian-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus-Harvey",
+    "Hate": ""
+  },
+  {
+    "Gift": "Frozen Tear",
+    "Love": "Sebastian",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Evelyn-Clint",
+    "Neutral": "",
+    "Dislike": "Pierre-Linus-Leah",
+    "Hate": ""
+  },
+  {
+    "Gift": "Fruit Salad",
+    "Love": "Haley",
+    "Like": "Kent-Lewis-Vincent-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus",
+    "Hate": ""
+  },
+  {
+    "Gift": "Garlic",
+    "Love": "",
+    "Like": "Kent-Lewis-Pam-Shane-Emily-Gus-Maru-Alex-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Vincent-Haley-Jas-Sam-Abigail",
+    "Hate": "Pierre-Evelyn"
+  },
+  {
+    "Gift": "Geminite",
+    "Love": "",
+    "Like": "Wizard",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Ghost Crystal",
+    "Love": "",
+    "Like": "Wizard",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Ghostfish",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Willy-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
+  },
+  {
+    "Gift": "Glacierfish",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Willy-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
+  },
+  {
+    "Gift": "Glazed Yams",
+    "Love": "Lewis-Pam",
+    "Like": "Kent-Vincent-Haley-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus-Harvey",
+    "Hate": ""
+  },
+  {
+    "Gift": "Goat Cheese",
+    "Love": "Robin-Leah",
+    "Like": "Kent-Lewis-Haley-Pam-Shane-Pierre-Emily-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-George-Krobus-Linus-Caroline-Wizard-Evelyn-Clint",
+    "Neutral": "",
+    "Dislike": "Harvey",
+    "Hate": "Vincent-Jas-Sebastian"
+  },
+  {
+    "Gift": "Goat Milk",
+    "Love": "",
+    "Like": "Pam-Pierre-Penny-Jodi-Sandy-Marnie-Robin-Linus-Harvey-Evelyn-Leah",
+    "Neutral": "Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Willy-Abigail-George-Krobus-Caroline-Sebastian-Clint",
+    "Dislike": "Lewis-Haley-Dwarf-Elliott-Wizard",
+    "Hate": "Kent"
+  },
+  {
+    "Gift": "Gold Bar",
+    "Love": "Maru-Clint",
+    "Like": "Willy-Krobus",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Alex-Demetrius-Dwarf-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah",
+    "Hate": "Sam"
+  },
+  {
+    "Gift": "Gold Ore",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Clint",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah",
+    "Hate": "Sam"
+  },
+  {
+    "Gift": "Granite",
+    "Love": "",
+    "Like": "Wizard",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Grape",
+    "Love": "Vincent",
+    "Like": "Kent-Pam-Shane-Demetrius-Elliott-Jodi-Sandy-Robin-Linus-Harvey-Leah",
+    "Neutral": "Lewis-Pierre-Emily-Gus-Maru-Alex-Sam-Dwarf-Willy-Marnie-George-Krobus-Caroline-Sebastian-Wizard-Evelyn-Clint",
+    "Dislike": "Haley-Jas-Abigail",
+    "Hate": "Penny"
+  },
+  {
+    "Gift": "Green Algae",
+    "Love": "",
+    "Like": "",
+    "Neutral": "",
+    "Dislike": "",
+    "Hate": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint"
+  },
+  {
+    "Gift": "Green Bean",
+    "Love": "",
+    "Like": "Kent-Lewis-Pam-Shane-Pierre-Emily-Gus-Maru-Alex-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Vincent-Haley-Jas-Sam-Abigail",
+    "Hate": ""
+  },
+  {
+    "Gift": "Halibut",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Willy-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
+  },
+  {
+    "Gift": "Hardwood",
+    "Love": "",
+    "Like": "Robin",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Hashbrowns",
+    "Love": "",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Wizard-Evelyn-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus-Harvey",
+    "Hate": "Leah"
+  },
+  {
+    "Gift": "Hay",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Wizard-Evelyn-Leah-Clint",
+    "Dislike": "",
+    "Hate": "Harvey"
+  },
+  {
+    "Gift": "Hazelnut",
+    "Love": "",
+    "Like": "Linus-Harvey-Leah",
+    "Neutral": "Kent-Lewis-Pam-Emily-Gus-Maru-Alex-Demetrius-Penny-Abigail-Sandy-Marnie-Robin-George-Evelyn-Clint",
+    "Dislike": "Vincent-Haley-Shane-Pierre-Jas-Sam-Dwarf-Willy-Elliott-Jodi-Krobus-Caroline-Sebastian-Wizard",
+    "Hate": ""
+  },
+  {
+    "Gift": "Helvite",
+    "Love": "",
+    "Like": "Wizard",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Hematite",
+    "Love": "",
+    "Like": "Wizard",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Herring",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Willy-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
+  },
+  {
+    "Gift": "Holly",
+    "Love": "",
+    "Like": "Linus-Harvey-Leah",
+    "Neutral": "",
+    "Dislike": "Vincent-Haley-Shane-Pierre-Jas-Sam-Dwarf-Willy-Elliott-Jodi-Krobus-Caroline-Sebastian-Wizard",
+    "Hate": "Kent-Lewis-Pam-Emily-Gus-Maru-Alex-Demetrius-Penny-Abigail-Sandy-Marnie-Robin-George-Evelyn-Clint"
+  },
+  {
+    "Gift": "Honey",
+    "Love": "",
+    "Like": "Kent-Lewis-Haley-Pam-Shane-Pierre-Emily-Gus-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "",
+    "Hate": "Vincent-Jas-Maru-Sebastian"
+  },
+  {
+    "Gift": "Hops",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Dislike": "",
+    "Hate": "Penny"
+  },
+  {
+    "Gift": "Hot Pepper",
+    "Love": "Lewis-Shane",
+    "Like": "Kent-Pam-Demetrius-Elliott-Jodi-Sandy-Robin-Linus-Harvey-Leah",
+    "Neutral": "Pierre-Emily-Gus-Maru-Alex-Sam-Dwarf-Willy-Penny-Marnie-George-Krobus-Caroline-Sebastian-Wizard-Evelyn-Clint",
+    "Dislike": "Vincent-Haley-Jas-Abigail",
+    "Hate": ""
+  },
+  {
+    "Gift": "Ice Cream",
+    "Love": "Demetrius",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Wizard-Evelyn-Clint",
+    "Neutral": "",
+    "Dislike": "Emily-Willy-Krobus-Harvey-Leah",
+    "Hate": ""
+  },
+  {
+    "Gift": "Ice Pip",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Willy-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
+  },
+  {
+    "Gift": "Iridium Bar",
+    "Love": "Maru-Willy-Krobus-Clint",
+    "Like": "",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Alex-Demetrius-Dwarf-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah",
+    "Hate": "Sam"
+  },
+  {
+    "Gift": "Iridium Ore",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Clint",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah",
+    "Hate": "Sam"
+  },
+  {
+    "Gift": "Iridium Sprinkler",
+    "Love": "",
+    "Like": "",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Iron Bar",
+    "Love": "",
+    "Like": "Maru-Clint",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Alex-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah",
+    "Hate": "Sam"
+  },
+  {
+    "Gift": "Iron Ore",
+    "Love": "",
+    "Like": "",
+    "Neutral": "",
+    "Dislike": "",
+    "Hate": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint"
+  },
+  {
+    "Gift": "Jack-O-Lantern",
+    "Love": "",
+    "Like": "",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Jade",
+    "Love": "Emily-Dwarf-Clint",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Jas-Gus-Maru-Alex-Sam-Demetrius-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Sebastian-Harvey-Wizard-Evelyn",
+    "Neutral": "",
+    "Dislike": "Pierre-Linus-Leah",
+    "Hate": ""
+  },
+  {
+    "Gift": "Jagoite",
+    "Love": "",
+    "Like": "Wizard",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Jamborite",
+    "Love": "",
+    "Like": "Wizard",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Jasper",
+    "Love": "",
+    "Like": "Wizard",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Jelly",
+    "Love": "",
+    "Like": "Kent-Lewis-Haley-Pam-Shane-Pierre-Emily-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "",
+    "Hate": "Vincent-Jas-Sebastian"
+  },
+  {
+    "Gift": "Joja Cola",
+    "Love": "",
+    "Like": "Sam",
+    "Neutral": "",
+    "Dislike": "",
+    "Hate": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint"
+  },
+  {
+    "Gift": "Juice",
+    "Love": "",
+    "Like": "Kent-Lewis-Haley-Pam-Shane-Pierre-Emily-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "",
+    "Hate": "Vincent-Jas-Sebastian"
+  },
+  {
+    "Gift": "Kale",
+    "Love": "",
+    "Like": "Kent-Lewis-Pam-Shane-Pierre-Emily-Gus-Maru-Alex-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Vincent-Haley-Jas-Sam-Abigail",
+    "Hate": ""
+  },
+  {
+    "Gift": "Kyanite",
+    "Love": "",
+    "Like": "Wizard",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Large Brown Egg",
+    "Love": "",
+    "Like": "Kent-Shane-Pierre-Alex-Sam-Demetrius-Jodi-Marnie-Linus-Leah",
+    "Neutral": "Lewis-Emily-Gus-Maru-Willy-Penny-Elliott-Sandy-Robin-George-Krobus-Caroline-Harvey-Evelyn-Clint",
+    "Dislike": "Vincent-Haley-Pam-Jas-Dwarf-Abigail-Wizard",
+    "Hate": "Sebastian"
+  },
+  {
+    "Gift": "Large Egg",
+    "Love": "",
+    "Like": "Kent-Shane-Pierre-Alex-Sam-Demetrius-Jodi-Marnie-Linus-Leah",
+    "Neutral": "Lewis-Emily-Gus-Maru-Willy-Penny-Elliott-Sandy-Robin-George-Krobus-Caroline-Harvey-Evelyn-Clint",
+    "Dislike": "Vincent-Haley-Pam-Jas-Dwarf-Abigail-Wizard",
+    "Hate": "Sebastian"
+  },
+  {
+    "Gift": "Large Goat Milk",
+    "Love": "",
+    "Like": "Pam-Pierre-Penny-Jodi-Sandy-Marnie-Robin-Linus-Harvey-Evelyn-Leah",
+    "Neutral": "Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Willy-Abigail-George-Krobus-Caroline-Sebastian-Clint",
+    "Dislike": "Lewis-Haley-Dwarf-Elliott-Wizard",
+    "Hate": "Kent"
+  },
+  {
+    "Gift": "Large Milk",
+    "Love": "",
+    "Like": "Pam-Pierre-Penny-Jodi-Marnie-Robin-Linus-Evelyn-Leah",
+    "Neutral": "Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Willy-Abigail-Sandy-George-Krobus-Caroline-Sebastian-Harvey-Clint",
+    "Dislike": "Lewis-Haley-Dwarf-Elliott-Wizard",
+    "Hate": "Kent"
+  },
+  {
+    "Gift": "Largemouth Bass",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Willy-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
+  },
+  {
+    "Gift": "Lava Eel",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Willy-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
+  },
+  {
+    "Gift": "Leek",
+    "Love": "George",
+    "Like": "Penny-Linus-Harvey-Leah",
+    "Neutral": "Kent-Lewis-Pam-Emily-Gus-Maru-Alex-Demetrius-Abigail-Sandy-Marnie-Robin-Evelyn-Clint",
+    "Dislike": "Vincent-Haley-Shane-Pierre-Jas-Sam-Dwarf-Willy-Elliott-Jodi-Krobus-Caroline-Sebastian-Wizard",
+    "Hate": ""
+  },
+  {
+    "Gift": "Legend",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Willy-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
+  },
+  {
+    "Gift": "Lemon Stone",
+    "Love": "",
+    "Like": "Wizard",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Life Elixir",
+    "Love": "",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus",
+    "Hate": ""
+  },
+  {
+    "Gift": "Limestone",
+    "Love": "",
+    "Like": "Wizard",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Lingcod",
+    "Love": "",
+    "Like": "Willy",
+    "Neutral": "Pam-Demetrius-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
+  },
+  {
+    "Gift": "Lobster",
+    "Love": "Elliott",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Willy-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
+  },
+  {
+    "Gift": "Lobster Bisque",
+    "Love": "Harvey",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Krobus",
+    "Hate": ""
+  },
+  {
+    "Gift": "Lucky Lunch",
+    "Love": "",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus",
+    "Hate": ""
+  },
+  {
+    "Gift": "Lunarite",
+    "Love": "",
+    "Like": "Wizard",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Maki Roll",
+    "Love": "",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Harvey-Wizard-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus",
+    "Hate": "Emily-Evelyn"
+  },
+  {
+    "Gift": "Malachite",
+    "Love": "",
+    "Like": "Wizard",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Maple Bar",
+    "Love": "Sam",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Demetrius-Dwarf-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus",
+    "Hate": ""
+  },
+  {
+    "Gift": "Maple Seed",
+    "Love": "",
+    "Like": "",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Maple Syrup",
+    "Love": "",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Maru",
+    "Hate": ""
+  },
+  {
+    "Gift": "Marble",
+    "Love": "",
+    "Like": "Wizard",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Mayonnaise",
+    "Love": "",
+    "Like": "Kent-Lewis-Haley-Pam-Shane-Pierre-Emily-Gus-Maru-Alex-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Caroline",
+    "Hate": "Vincent-Jas-Sam-Sebastian"
+  },
+  {
+    "Gift": "Melon",
+    "Love": "Penny",
+    "Like": "Kent-Pam-Shane-Demetrius-Elliott-Jodi-Sandy-Robin-Linus-Harvey-Leah",
+    "Neutral": "Lewis-Pierre-Emily-Gus-Maru-Alex-Sam-Dwarf-Willy-Marnie-George-Krobus-Caroline-Sebastian-Wizard-Evelyn-Clint",
+    "Dislike": "Vincent-Haley-Jas-Abigail",
+    "Hate": ""
+  },
+  {
+    "Gift": "Milk",
+    "Love": "",
+    "Like": "Pam-Pierre-Penny-Jodi-Marnie-Robin-Linus-Evelyn-Leah",
+    "Neutral": "Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Willy-Abigail-Sandy-George-Krobus-Caroline-Sebastian-Harvey-Clint",
+    "Dislike": "Lewis-Haley-Dwarf-Elliott-Wizard",
+    "Hate": "Kent"
+  },
+  {
+    "Gift": "Miner's Treat",
+    "Love": "Maru",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Alex-Sam-Demetrius-Dwarf-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus",
+    "Hate": ""
+  },
+  {
+    "Gift": "Morel",
+    "Love": "",
+    "Like": "Linus-Harvey-Leah",
+    "Neutral": "Kent-Lewis-Pam-Emily-Gus-Maru-Alex-Demetrius-Penny-Abigail-Sandy-Marnie-Robin-George-Evelyn-Clint",
+    "Dislike": "Vincent-Haley-Shane-Pierre-Jas-Sam-Dwarf-Willy-Elliott-Jodi-Krobus-Caroline-Sebastian-Wizard",
+    "Hate": ""
+  },
+  {
+    "Gift": "Mudstone",
+    "Love": "",
+    "Like": "Wizard",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Mussel",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Willy-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
+  },
+  {
+    "Gift": "Mutant Carp",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Willy-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
+  },
+  {
+    "Gift": "Nautilus Shell",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Wizard-Evelyn-Leah-Clint",
+    "Dislike": "",
+    "Hate": "Harvey"
+  },
+  {
+    "Gift": "Nekoite",
+    "Love": "",
+    "Like": "Wizard",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Neptunite",
+    "Love": "",
+    "Like": "Wizard",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Oak Resin",
+    "Love": "",
+    "Like": "Maru",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Obsidian",
+    "Love": "Sebastian",
+    "Like": "Wizard",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Harvey-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Ocean Stone",
+    "Love": "",
+    "Like": "Wizard",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Octopus",
+    "Love": "Willy",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
+  },
+  {
+    "Gift": "Oil",
+    "Love": "",
+    "Like": "",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Omelet",
+    "Love": "",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus",
+    "Hate": "Sebastian"
+  },
+  {
+    "Gift": "Omni Geode",
+    "Love": "Dwarf-Clint",
+    "Like": "",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah",
+    "Hate": ""
+  },
+  {
+    "Gift": "Opal",
+    "Love": "",
+    "Like": "Wizard",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Orange",
+    "Love": "Gus",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "",
+    "Hate": ""
+  },
+  {
+    "Gift": "Orpiment",
+    "Love": "",
+    "Like": "Wizard",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Oyster",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Willy-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
+  },
+  {
+    "Gift": "Pale Ale",
+    "Love": "Pam",
+    "Like": "Kent-Lewis-Haley-Shane-Pierre-Emily-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "",
+    "Hate": "Vincent-Jas-Penny-Sebastian"
+  },
+  {
+    "Gift": "Pale Broth",
+    "Love": "",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Penny-Krobus",
+    "Hate": ""
+  },
+  {
+    "Gift": "Pancakes",
+    "Love": "Jodi",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Penny-Elliott-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Wizard-Evelyn-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus-Harvey",
+    "Hate": "Leah"
+  },
+  {
+    "Gift": "Parsnip",
+    "Love": "Pam",
+    "Like": "Kent-Lewis-Shane-Pierre-Emily-Gus-Maru-Alex-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Vincent-Haley-Jas-Sam-Abigail",
+    "Hate": ""
+  },
+  {
+    "Gift": "Parsnip Soup",
+    "Love": "Pam",
+    "Like": "Kent-Lewis-Vincent-Haley-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus",
+    "Hate": "Pierre"
+  },
+  {
+    "Gift": "Peach",
+    "Love": "Robin",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "",
+    "Hate": ""
+  },
+  {
+    "Gift": "Pepper Poppers",
+    "Love": "Shane-Maru",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Pierre-Emily-Jas-Gus-Alex-Sam-Demetrius-Dwarf-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus",
+    "Hate": ""
+  },
+  {
+    "Gift": "Perch",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Willy-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
+  },
+  {
+    "Gift": "Periwinkle",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Willy-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
+  },
+  {
+    "Gift": "Petrified Slime",
+    "Love": "",
+    "Like": "Wizard",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Pickles",
+    "Love": "Harvey",
+    "Like": "Kent-Lewis-Haley-Pam-Pierre-Emily-Gus-Alex-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Sebastian",
+    "Hate": "Vincent-Shane-Jas-Maru-Sam"
+  },
+  {
+    "Gift": "Pike",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Willy-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
+  },
+  {
+    "Gift": "Pine Cone",
+    "Love": "",
+    "Like": "",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Pine Tar",
+    "Love": "",
+    "Like": "Maru",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Pink Cake",
+    "Love": "Vincent-Haley-Jas-Marnie",
+    "Like": "Kent-Lewis-Pam-Shane-Pierre-Emily-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Penny-Elliott-Jodi-Abigail-Sandy-Robin-George-Linus-Caroline-Sebastian-Wizard-Evelyn-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus-Harvey-Leah",
+    "Hate": ""
+  },
+  {
+    "Gift": "Pizza",
+    "Love": "Shane-Sam",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Pierre-Emily-Jas-Gus-Maru-Alex-Demetrius-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Wizard-Evelyn-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Elliott-Krobus-Harvey",
+    "Hate": "Leah"
+  },
+  {
+    "Gift": "Plum Pudding",
+    "Love": "Jas",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus",
+    "Hate": ""
+  },
+  {
+    "Gift": "Pomegranate",
+    "Love": "Elliott",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "",
+    "Hate": ""
+  },
+  {
+    "Gift": "Poppy",
+    "Love": "Penny",
+    "Like": "",
+    "Neutral": "",
+    "Dislike": "",
+    "Hate": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint"
+  },
+  {
+    "Gift": "Poppyseed Muffin",
+    "Love": "Penny-Leah",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus",
+    "Hate": ""
+  },
+  {
+    "Gift": "Potato",
+    "Love": "",
+    "Like": "Kent-Lewis-Pam-Shane-Pierre-Emily-Gus-Maru-Alex-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Vincent-Haley-Jas-Sam-Abigail",
+    "Hate": ""
+  },
+  {
+    "Gift": "Prismatic Shard",
+    "Love": "Kent-Lewis-Vincent-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Like": "",
+    "Neutral": "",
+    "Dislike": "",
+    "Hate": "Haley"
+  },
+  {
+    "Gift": "Pufferfish",
+    "Love": "Abigail",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Willy-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
+  },
+  {
+    "Gift": "Pumpkin",
+    "Love": "Willy-Abigail-Krobus",
+    "Like": "Kent-Lewis-Pam-Shane-Pierre-Emily-Gus-Maru-Alex-Demetrius-Dwarf-Penny-Elliott-Jodi-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Vincent-Haley-Jas-Sam",
+    "Hate": ""
+  },
+  {
+    "Gift": "Pumpkin Pie",
+    "Love": "",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus",
+    "Hate": ""
+  },
+  {
+    "Gift": "Pumpkin Soup",
+    "Love": "Sebastian",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus",
+    "Hate": ""
+  },
+  {
+    "Gift": "Purple Mushroom",
+    "Love": "Wizard",
+    "Like": "Demetrius-Linus-Harvey-Leah",
+    "Neutral": "Kent-Lewis-Pam-Emily-Gus-Maru-Alex-Abigail-Sandy-Marnie-Robin-George-Evelyn-Clint",
+    "Dislike": "Vincent-Haley-Shane-Pierre-Jas-Sam-Dwarf-Willy-Penny-Elliott-Jodi-Krobus-Caroline-Sebastian",
+    "Hate": ""
+  },
+  {
+    "Gift": "Pyrite",
+    "Love": "",
+    "Like": "Wizard",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Quality Sprinkler",
+    "Love": "",
+    "Like": "",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Quartz",
+    "Love": "",
+    "Like": "Emily-Maru-Dwarf-Willy-Abigail-Sandy-Marnie-Robin-Krobus-Sebastian-Harvey-Wizard",
+    "Neutral": "",
+    "Dislike": "Kent-Vincent-Haley-Pam-Pierre-Jas-Sam-Demetrius-Penny-Jodi-Linus-Evelyn-Leah-Clint",
+    "Hate": "Lewis-Shane-Gus-Alex-Elliott-George-Caroline"
+  },
+  {
+    "Gift": "Rabbit's Foot",
+    "Love": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Like": "",
+    "Neutral": "",
+    "Dislike": "",
+    "Hate": "Penny"
+  },
+  {
+    "Gift": "Radish",
+    "Love": "",
+    "Like": "Kent-Lewis-Pam-Shane-Pierre-Emily-Gus-Maru-Alex-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Vincent-Haley-Jas-Sam-Abigail",
+    "Hate": ""
+  },
+  {
+    "Gift": "Radish Salad",
+    "Love": "",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus",
+    "Hate": ""
+  },
+  {
+    "Gift": "Rainbow Shell",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Wizard-Evelyn-Leah-Clint",
+    "Dislike": "",
+    "Hate": "Harvey"
+  },
+  {
+    "Gift": "Rainbow Trout",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Willy-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
+  },
+  {
+    "Gift": "Red Cabbage",
+    "Love": "",
+    "Like": "Kent-Lewis-Pam-Shane-Pierre-Emily-Gus-Maru-Alex-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Vincent-Haley-Jas-Sam-Abigail",
+    "Hate": ""
+  },
+  {
+    "Gift": "Red Mullet",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Willy-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
+  },
+  {
+    "Gift": "Red Mushroom",
+    "Love": "",
+    "Like": "",
+    "Neutral": "",
+    "Dislike": "Penny",
+    "Hate": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint"
+  },
+  {
+    "Gift": "Red Plate",
+    "Love": "Penny",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus",
+    "Hate": ""
+  },
+  {
+    "Gift": "Red Snapper",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Willy-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
+  },
+  {
+    "Gift": "Rhubarb",
+    "Love": "",
+    "Like": "Kent-Pam-Shane-Demetrius-Elliott-Jodi-Sandy-Robin-Linus-Harvey-Leah",
+    "Neutral": "Lewis-Pierre-Emily-Gus-Maru-Alex-Sam-Dwarf-Willy-Penny-Marnie-George-Krobus-Caroline-Sebastian-Wizard-Evelyn-Clint",
+    "Dislike": "Vincent-Haley-Jas-Abigail",
+    "Hate": ""
+  },
+  {
+    "Gift": "Rhubarb Pie",
+    "Love": "Maru-Jodi",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Alex-Sam-Demetrius-Dwarf-Penny-Elliott-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus-Harvey",
+    "Hate": ""
+  },
+  {
+    "Gift": "Rice",
+    "Love": "",
+    "Like": "",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Rice Pudding",
+    "Love": "",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Wizard-Evelyn-Clint",
+    "Neutral": "Demetrius",
+    "Dislike": "Emily-Willy-Krobus-Harvey-Leah",
+    "Hate": ""
+  },
+  {
+    "Gift": "Roasted Hazelnuts",
+    "Love": "Kent",
+    "Like": "Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus",
+    "Hate": ""
+  },
+  {
+    "Gift": "Roots Platter",
+    "Love": "Penny",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus",
+    "Hate": ""
+  },
+  {
+    "Gift": "Rotten Plant",
+    "Love": "",
+    "Like": "",
+    "Neutral": "",
+    "Dislike": "",
+    "Hate": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint"
+  },
+  {
+    "Gift": "Ruby",
+    "Love": "Emily-Dwarf-Clint",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Jas-Gus-Maru-Alex-Sam-Demetrius-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Sebastian-Harvey-Wizard-Evelyn",
+    "Neutral": "",
+    "Dislike": "Pierre-Linus-Leah",
+    "Hate": ""
+  },
+  {
+    "Gift": "Salad",
+    "Love": "Leah",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus",
+    "Hate": ""
+  },
+  {
+    "Gift": "Salmon",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Willy-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
+  },
+  {
+    "Gift": "Salmon Dinner",
+    "Love": "Alex",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Jas-Gus-Maru-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Krobus",
+    "Hate": "Emily"
+  },
+  {
+    "Gift": "Salmonberry",
+    "Love": "",
+    "Like": "Kent-Pam-Shane-Demetrius-Jodi-Sandy-Robin-Linus-Leah",
+    "Neutral": "",
+    "Dislike": "Lewis-Vincent-Haley-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Willy-Penny-Abigail-Marnie-George-Krobus-Sebastian-Wizard-Clint",
+    "Hate": "Elliott-Caroline-Harvey-Evelyn"
+  },
+  {
+    "Gift": "Sandfish",
+    "Love": "Penny",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Willy-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
+  },
+  {
+    "Gift": "Sandstone",
+    "Love": "",
+    "Like": "Wizard",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Sap",
+    "Love": "",
+    "Like": "",
+    "Neutral": "",
+    "Dislike": "",
+    "Hate": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint"
+  },
+  {
+    "Gift": "Sardine",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Willy-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
+  },
+  {
+    "Gift": "Sashimi",
+    "Love": "Sebastian",
+    "Like": "Lewis-Vincent-Haley-Pam-Shane-Pierre-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus",
+    "Hate": "Kent-Emily-Evelyn"
+  },
+  {
+    "Gift": "Scorpion Carp",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Willy-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
+  },
+  {
+    "Gift": "Sea Cucumber",
+    "Love": "Willy",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
+  },
+  {
+    "Gift": "Sea Urchin",
+    "Love": "",
+    "Like": "",
+    "Neutral": "",
+    "Dislike": "",
+    "Hate": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint"
+  },
+  {
+    "Gift": "Seaweed",
+    "Love": "",
+    "Like": "",
+    "Neutral": "",
+    "Dislike": "Shane-Sam-Marnie-Leah",
+    "Hate": "Kent-Lewis-Vincent-Haley-Pam-Pierre-Emily-Jas-Gus-Maru-Alex-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Clint"
+  },
+  {
+    "Gift": "Shad",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Willy-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
+  },
+  {
+    "Gift": "Shrimp",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Willy-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
+  },
+  {
+    "Gift": "Slate",
+    "Love": "",
+    "Like": "Wizard",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Slime",
+    "Love": "",
+    "Like": "",
+    "Neutral": "",
+    "Dislike": "Wizard",
+    "Hate": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Evelyn-Leah-Clint"
+  },
+  {
+    "Gift": "Smallmouth Bass",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Willy-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
+  },
+  {
+    "Gift": "Snail",
+    "Love": "",
+    "Like": "",
+    "Neutral": "",
+    "Dislike": "",
+    "Hate": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint"
+  },
+  {
+    "Gift": "Snow Yam",
+    "Love": "",
+    "Like": "Linus-Harvey-Leah",
+    "Neutral": "Lewis-Pam-Emily-Gus-Alex-Demetrius-Penny-Abigail-Sandy-Marnie-Robin-George-Evelyn-Clint",
+    "Dislike": "Kent-Vincent-Haley-Shane-Pierre-Jas-Sam-Dwarf-Willy-Elliott-Jodi-Krobus-Caroline-Sebastian-Wizard",
+    "Hate": "Maru"
+  },
+  {
+    "Gift": "Soapstone",
+    "Love": "",
+    "Like": "Wizard",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Soggy Newspaper",
+    "Love": "",
+    "Like": "",
+    "Neutral": "",
+    "Dislike": "",
+    "Hate": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint"
+  },
+  {
+    "Gift": "Solar Essence",
+    "Love": "Wizard",
+    "Like": "",
+    "Neutral": "Dwarf",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Spaghetti",
+    "Love": "Robin",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-George-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus",
+    "Hate": ""
+  },
+  {
+    "Gift": "Spice Berry",
+    "Love": "",
+    "Like": "Kent-Pam-Shane-Demetrius-Elliott-Sandy-Robin-Linus-Leah",
+    "Neutral": "Lewis-Pierre-Emily-Gus-Maru-Alex-Sam-Dwarf-Willy-Penny-Marnie-George-Krobus-Caroline-Sebastian-Wizard-Clint",
+    "Dislike": "Vincent-Haley-Jas-Abigail",
+    "Hate": "Jodi-Harvey-Evelyn"
+  },
+  {
+    "Gift": "Spicy Eel",
+    "Love": "Abigail",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Penny-Elliott-Jodi-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Harvey-Wizard-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Emily-Willy-Krobus",
+    "Hate": "Evelyn"
+  },
+  {
+    "Gift": "Spring Onion",
+    "Love": "",
+    "Like": "Linus-Harvey-Leah",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Sebastian-Wizard-Evelyn-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Sprinkler",
+    "Love": "",
+    "Like": "",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Squid",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Willy-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
+  },
+  {
+    "Gift": "Star Shards",
+    "Love": "",
+    "Like": "Wizard",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Starfruit",
+    "Love": "",
+    "Like": "Kent-Pam-Shane-Demetrius-Elliott-Jodi-Sandy-Robin-Linus-Harvey-Leah",
+    "Neutral": "Lewis-Pierre-Emily-Gus-Maru-Alex-Sam-Dwarf-Willy-Penny-Marnie-George-Krobus-Caroline-Sebastian-Wizard-Evelyn-Clint",
+    "Dislike": "Vincent-Haley-Jas-Abigail",
+    "Hate": ""
+  },
+  {
+    "Gift": "Stir Fry",
+    "Love": "Leah",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus",
+    "Hate": ""
+  },
+  {
+    "Gift": "Stone",
+    "Love": "",
+    "Like": "",
+    "Neutral": "",
+    "Dislike": "Lewis-Pam-Shane-Pierre-Emily-Gus-Alex-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-George-Krobus-Caroline-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Hate": "Kent-Vincent-Haley-Jas-Maru-Sam-Demetrius-Robin-Linus-Sebastian"
+  },
+  {
+    "Gift": "Stonefish",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Willy-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
+  },
+  {
+    "Gift": "Strange Bun",
+    "Love": "",
+    "Like": "",
+    "Neutral": "",
+    "Dislike": "",
+    "Hate": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint"
+  },
+  {
+    "Gift": "Strawberry",
+    "Love": "Maru-Demetrius",
+    "Like": "Kent-Pam-Shane-Elliott-Jodi-Sandy-Robin-Linus-Harvey-Leah",
+    "Neutral": "Lewis-Pierre-Emily-Gus-Alex-Sam-Dwarf-Willy-Penny-Marnie-George-Krobus-Caroline-Sebastian-Wizard-Evelyn-Clint",
+    "Dislike": "Vincent-Haley-Jas-Abigail",
+    "Hate": ""
+  },
+  {
+    "Gift": "Stuffing",
+    "Love": "Evelyn",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Harvey-Wizard-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus",
+    "Hate": ""
+  },
+  {
+    "Gift": "Sturgeon",
+    "Love": "Willy",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
+  },
+  {
+    "Gift": "Sugar",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Wizard-Evelyn-Leah-Clint",
+    "Dislike": "Abigail",
+    "Hate": "Harvey"
+  },
+  {
+    "Gift": "Summer Spangle",
+    "Love": "Caroline",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-Krobus-Linus-Harvey-Wizard-Evelyn-Leah",
+    "Neutral": "",
+    "Dislike": "George-Sebastian-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Sunfish",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Willy-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
+  },
+  {
+    "Gift": "Sunflower",
+    "Love": "Haley",
+    "Like": "Kent-Lewis-Vincent-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-Krobus-Linus-Caroline-Harvey-Wizard-Evelyn-Leah",
+    "Neutral": "",
+    "Dislike": "George-Sebastian-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Super Cucumber",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Willy-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
+  },
+  {
+    "Gift": "Super Meal",
+    "Love": "Harvey",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus",
+    "Hate": ""
+  },
+  {
+    "Gift": "Survival Burger",
+    "Love": "Emily",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus-Leah",
+    "Hate": ""
+  },
+  {
+    "Gift": "Sweet Gem Berry",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Dislike": "",
+    "Hate": ""
+  },
+  {
+    "Gift": "Sweet Pea",
+    "Love": "Sandy",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Marnie-Robin-Krobus-Linus-Caroline-Harvey-Wizard-Evelyn-Leah",
+    "Neutral": "",
+    "Dislike": "George-Sebastian-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Thunder Egg",
+    "Love": "",
+    "Like": "Wizard",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Tiger Trout",
+    "Love": "",
+    "Like": "Willy",
+    "Neutral": "Pam-Demetrius-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
+  },
+  {
+    "Gift": "Tigerseye",
+    "Love": "Sam",
+    "Like": "Wizard",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Tilapia",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Willy-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
+  },
+  {
+    "Gift": "Tom Kha Soup",
+    "Love": "Penny-Elliott",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus",
+    "Hate": ""
+  },
+  {
+    "Gift": "Tomato",
+    "Love": "",
+    "Like": "Kent-Lewis-Pam-Shane-Pierre-Emily-Gus-Maru-Alex-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Vincent-Haley-Jas-Sam-Abigail",
+    "Hate": ""
+  },
+  {
+    "Gift": "Topaz",
+    "Love": "Emily-Dwarf-Clint",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Jas-Gus-Maru-Alex-Sam-Demetrius-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Sebastian-Harvey-Wizard-Evelyn",
+    "Neutral": "",
+    "Dislike": "Pierre-Linus-Leah",
+    "Hate": ""
+  },
+  {
+    "Gift": "Tortilla",
+    "Love": "",
+    "Like": "Lewis-Vincent-Haley-Pam-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus-Leah",
+    "Hate": "Kent-Pierre"
+  },
+  {
+    "Gift": "Trash",
+    "Love": "",
+    "Like": "",
+    "Neutral": "",
+    "Dislike": "",
+    "Hate": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint"
+  },
+  {
+    "Gift": "Treasure Chest",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Dislike": "",
+    "Hate": ""
+  },
+  {
+    "Gift": "Trout Soup",
+    "Love": "",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Harvey-Wizard-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Krobus",
+    "Hate": "Evelyn"
+  },
+  {
+    "Gift": "Truffle",
+    "Love": "Leah",
+    "Like": "",
+    "Neutral": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Clint",
+    "Dislike": "",
+    "Hate": "Maru"
+  },
+  {
+    "Gift": "Truffle Oil",
+    "Love": "Harvey",
+    "Like": "Kent-Lewis-Haley-Pam-Shane-Pierre-Emily-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "",
+    "Hate": "Vincent-Jas-Sebastian"
+  },
+  {
+    "Gift": "Tulip",
+    "Love": "Evelyn",
+    "Like": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-Krobus-Linus-Caroline-Harvey-Wizard-Leah",
+    "Neutral": "",
+    "Dislike": "George-Sebastian-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Tuna",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Willy-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
+  },
+  {
+    "Gift": "Vegetable Medley",
+    "Love": "Lewis-Jodi-Leah",
+    "Like": "Kent-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Penny-Elliott-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Clint",
+    "Neutral": "",
+    "Dislike": "Willy-Krobus",
+    "Hate": ""
+  },
+  {
+    "Gift": "Void Egg",
+    "Love": "Krobus-Sebastian",
+    "Like": "",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Linus-Caroline-Harvey-Wizard-Evelyn-Clint",
+    "Hate": "Leah"
+  },
+  {
+    "Gift": "Void Essense",
+    "Love": "Wizard",
+    "Like": "",
+    "Neutral": "Dwarf",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Walleye",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Willy-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
+  },
+  {
+    "Gift": "Wheat",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Dislike": "",
+    "Hate": ""
+  },
+  {
+    "Gift": "Wheat Flour",
+    "Love": "",
+    "Like": "",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "White Algae",
+    "Love": "",
+    "Like": "",
+    "Neutral": "",
+    "Dislike": "",
+    "Hate": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint"
+  },
+  {
+    "Gift": "Wild Horseradish",
+    "Love": "Krobus",
+    "Like": "Linus-Harvey-Leah",
+    "Neutral": "Kent-Emily-Maru-Demetrius-Penny-Sandy",
+    "Dislike": "Lewis-Pam-Shane-Pierre-Gus-Alex-Sam-Dwarf-Willy-Elliott-Jodi-Abigail-Marnie-Robin-George-Caroline-Sebastian-Wizard-Evelyn-Clint",
+    "Hate": "Vincent-Haley-Jas"
+  },
+  {
+    "Gift": "Wild Plum",
+    "Love": "",
+    "Like": "Linus-Harvey-Leah",
+    "Neutral": "Kent-Lewis-Pam-Emily-Gus-Maru-Alex-Demetrius-Penny-Abigail-Sandy-Marnie-Robin-George-Evelyn-Clint",
+    "Dislike": "Vincent-Haley-Shane-Pierre-Jas-Sam-Dwarf-Willy-Elliott-Jodi-Krobus-Caroline-Sebastian-Wizard",
+    "Hate": ""
+  },
+  {
+    "Gift": "Wine",
+    "Love": "Harvey-Leah",
+    "Like": "Kent-Lewis-Haley-Pam-Shane-Pierre-Emily-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Wizard-Evelyn-Clint",
+    "Neutral": "",
+    "Dislike": "",
+    "Hate": "Vincent-Jas-Penny-Sebastian"
+  },
+  {
+    "Gift": "Winter Root",
+    "Love": "",
+    "Like": "Linus-Harvey-Leah",
+    "Neutral": "Kent-Lewis-Pam-Emily-Gus-Maru-Alex-Demetrius-Penny-Abigail-Sandy-Marnie-Robin-George-Evelyn-Clint",
+    "Dislike": "Vincent-Haley-Shane-Pierre-Jas-Sam-Dwarf-Willy-Elliott-Jodi-Krobus-Caroline-Sebastian-Wizard",
+    "Hate": ""
+  },
+  {
+    "Gift": "Wood",
+    "Love": "",
+    "Like": "",
+    "Neutral": "",
+    "Dislike": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Emily-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Hate": ""
+  },
+  {
+    "Gift": "Woodskip",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Pam-Demetrius-Willy-Elliott-Linus-Sebastian",
+    "Dislike": "Kent-Lewis-Vincent-Shane-Emily-Jas-Gus-Maru-Alex-Sam-Dwarf-Penny-Jodi-Abigail-Sandy-Marnie-Robin-George-Krobus-Caroline-Harvey-Wizard-Leah-Clint",
+    "Hate": "Haley-Pierre-Evelyn"
+  },
+  {
+    "Gift": "Wool",
+    "Love": "Emily",
+    "Like": "Sandy",
+    "Neutral": "Kent-Lewis-Vincent-Haley-Pam-Shane-Pierre-Jas-Gus-Maru-Alex-Sam-Demetrius-Dwarf-Willy-Elliott-Jodi-Abigail-Marnie-Robin-George-Krobus-Linus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Dislike": "Penny",
+    "Hate": ""
+  },
+  {
+    "Gift": "Yam",
+    "Love": "Linus",
+    "Like": "Kent-Lewis-Pam-Shane-Pierre-Emily-Gus-Maru-Alex-Demetrius-Dwarf-Willy-Penny-Elliott-Jodi-Sandy-Marnie-Robin-George-Krobus-Caroline-Sebastian-Harvey-Wizard-Evelyn-Leah-Clint",
+    "Neutral": "",
+    "Dislike": "Vincent-Haley-Jas-Sam-Abigail",
+    "Hate": ""
+  },
+  {
+    "Gift": "",
+    "Love": "",
+    "Like": "",
+    "Neutral": "Kent-Lewis-Pierre-Alex-Sam-Demetrius-Elliott-Sandy-Robin-George-Caroline-Sebastian-Harvey-Wizard",
+    "Dislike": "",
+    "Hate": ""
   }
 ]
