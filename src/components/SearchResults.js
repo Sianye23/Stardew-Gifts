@@ -6,7 +6,8 @@ export const SearchResults = ({ results }) => { // Assuming results are passed a
     return (
         <div className='search-results'>
             {results.map((result, id) => {
-                return <SearchResult result={result.Gift} key={id}></SearchResult>
+                console.log(result);
+                return <SearchResult result={result} key={id}></SearchResult>
             })}
         </div>
     );
