@@ -4,10 +4,12 @@
     text-align: left;
     border-collapse: collapse;
     wrap-option: wrap;
+    background: rgba(221, 221, 221, 0.51);
 }
 
 .details-table td, .details-table th {
     padding: 10px;
+    font-size: 3rem;
 }
 .details-table td:last-child, .details-table th:last-child {
     border-right: none;

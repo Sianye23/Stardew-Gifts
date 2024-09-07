@@ -1,6 +1,7 @@
 import {useLocation} from 'react-router-dom';
 import React from "react";
 import "./table.css";
+import "./DetailsPage.css"
 
 export const DetailsPage = () => {
     const information = useLocation().state
@@ -28,55 +29,57 @@ export const DetailsPage = () => {
 
 
     return (
-        <div>
-            <h1>{gift}</h1>
-            <table className="details-table">
-                <tbody>
-                <tr>
-                    <td>Love</td>
-                    <td>
-                        {love.map((url) => (
-                            <img src={url} height="42" width="42"/>
-                        ))}
-                    </td>
-                </tr>
-                <tr>
-                <td>Like</td>
-                    <td>
-                        {like.map((url) => (
-                            <img src={url} height="42" width="42"/>
-                        ))}
-                    </td>
-                </tr>
-                <tr>
-                <td>Neutral</td>
-                    <td>
-                        {neutral.map((url) => (
-
-                            <img src={url} height="42" width="42"/>
+        <div className="details-page-container">
+            <div>
+                <h1 style={{fontSize: 64, marginBottom: 20}}>{gift}</h1>
+                <table className="details-table">
+                    <tbody>
+                    <tr>
+                        <td>Love</td>
+                        <td>
+                            {love.map((url) => (
+                                <img src={url} height="100" width="100"/>
                             ))}
-                    </td>
-                </tr>
-                <tr>
-                <td>Dislike</td>
-                    <td>
-                        {dislike.map((url) => (
-
-                            <img src={url} height="42" width="42"/>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Like</td>
+                        <td>
+                            {like.map((url) => (
+                                <img src={url} height="100" width="100"/>
                             ))}
-                    </td>
-                </tr>
-                <tr>
-                    <td>Hate</td>
-                    <td>
-                        {hate.map((url) => (
-                            <img src={url} height="42" width="42"/>
-                            ))}
-                    </td>
-                </tr>
-                </tbody>
-            </table>
-        </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Neutral</td>
+                        <td>
+                            {neutral.map((url) => (
 
-    );
-};
+                                <img src={url} height="100" width="100"/>
+                            ))}
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Dislike</td>
+                        <td>
+                            {dislike.map((url) => (
+
+                                <img src={url} height="100" width="100"/>
+                            ))}
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Hate</td>
+                        <td>
+                            {hate.map((url) => (
+                                <img src={url} height="100" width="100"/>
+                            ))}
+                        </td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+            </div>
+
+            );
+            };

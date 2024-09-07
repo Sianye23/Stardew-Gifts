@@ -10,7 +10,7 @@
 input{
     background-color: transparent;
     border: none;
-    font-size: 2rem;
+    font-size: 3rem;
     width: 100rem;
     margin: 5px;
     height: 100%;
@@ -20,5 +20,6 @@ input{
 
 #search-icon{
     color: black;
-    
+    width: 5rem;
+    height: 3.5rem;
 }
