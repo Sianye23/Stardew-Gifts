@@ -17,6 +17,7 @@ function App() {
                             path="/"
                             element={
                                 <>
+                                    <h1>Stardew Valley Gift lookup</h1>
                                     <SearchBar setResults={setResults} />
                                     <SearchResults results={results} />
                                 </>
