@@ -1,14 +1,41 @@
 import {useLocation} from 'react-router-dom';
-import React from "react";
+import React, {useEffect, useState} from "react";
 import "./table.css";
 import "./DetailsPage.css"
 import giftsData from "./gifts.json";
+import { useNavigate } from 'react-router-dom';
 
 export const DetailsPage = () => {
+
+    const [love, setLove] = useState([]);
+    const [like, setLike] = useState([]);
+    const [neutral, setNeutral] = useState([]);
+    const [dislike, setDislike] = useState([]);
+    const [hate, setHate] = useState([]);
+
     const giftName = useLocation().pathname.slice(1).replace("_", " ");
+    const navigate = useNavigate();
 
-    const giftInformation = giftsData.find(obj => obj.Gift === giftName);
+    console.log("rending...")
+    let giftInformation;
+    giftInformation = giftsData.find(obj => obj.Gift === giftName);
 
+    console.log(giftInformation);
+
+    useEffect(() => {
+        console.log("aaaaa");
+        if (!giftInformation) {
+            console.log("aaa")
+            navigate(`/`);
+        }
+        else{
+            setLove(clean(giftInformation.Love));
+            setLike(clean(giftInformation.Like));
+            setNeutral(clean(giftInformation.Neutral));
+            setDislike(clean(giftInformation.Dislike));
+            setHate(clean(giftInformation.Hate));
+        }
+    })
     function clean(villagers) {
         const villagersArray = villagers.split('-');
         if (villagersArray.length === 1){
@@ -18,15 +45,6 @@ export const DetailsPage = () => {
             return villagersArray.map(villager => villager + ".png");
         }
     }
-
-    const love = clean(giftInformation.Love);
-    const like = clean(giftInformation.Like);
-    const neutral = clean(giftInformation.Neutral);
-    const dislike = clean(giftInformation.Dislike);
-    const hate = clean(giftInformation.Hate);
-
-
-
 
     return (
         <div>
@@ -54,7 +72,6 @@ export const DetailsPage = () => {
                         <td>Neutral</td>
                         <td>
                             {neutral.map((url) => (
-
                                 <img src={url} height="100" width="100"/>
                             ))}
                         </td>

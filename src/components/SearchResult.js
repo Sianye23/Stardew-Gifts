@@ -6,7 +6,7 @@ export const SearchResult = ({ result }) => {
     const navigate = useNavigate();
     const handleClick = () => {
         const gift = (result.Gift).replace(" ", "_");
-        navigate(`/${gift}`, { state: result });
+        navigate(`/${gift}`);
     }
 
     return (

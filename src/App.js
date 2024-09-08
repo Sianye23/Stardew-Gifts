@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import { Navigate } from 'react-router-dom';
 import './App.css';
 import { SearchBar } from "./components/SearchBar";
 import { SearchResults } from "./components/SearchResults";
