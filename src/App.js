@@ -17,13 +17,13 @@ function App() {
                             path="/"
                             element={
                                 <>
-                                    <h1 style={{fontSize: 64, marginBottom: 20}}>Stardew Valley Gift lookup</h1>
+                                    <h1 style={{fontSize: 64, marginBottom: 20}}>Stardew Valley Gift Lookup</h1>
                                     <SearchBar setResults={setResults} />
                                     <SearchResults results={results} />
                                 </>
                             }
                         />
-                        <Route path="/details" element={<DetailsPage />} />
+                        <Route path="/:gift" element={<DetailsPage />} />
                     </Routes>
                 </div>
             </div>

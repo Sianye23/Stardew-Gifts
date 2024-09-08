@@ -5,8 +5,8 @@ import "./SearchResult.css";
 export const SearchResult = ({ result }) => {
     const navigate = useNavigate();
     const handleClick = () => {
-        console.log(result)
-        navigate('/details', { state: result });
+        const gift = (result.Gift).replace(" ", "_");
+        navigate(`/${gift}`, { state: result });
     }
 
     return (

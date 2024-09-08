@@ -2,11 +2,12 @@ import {useLocation} from 'react-router-dom';
 import React from "react";
 import "./table.css";
 import "./DetailsPage.css"
+import giftsData from "./gifts.json";
 
 export const DetailsPage = () => {
     const information = useLocation().state
-
     const gift = information.Gift;
+
 
     function clean(villagers) {
         const villagersArray = villagers.split('-');
@@ -29,7 +30,7 @@ export const DetailsPage = () => {
 
 
     return (
-        <div className="details-page-container">
+        <div>
             <div>
                 <h1 style={{fontSize: 64, marginBottom: 20}}>{gift}</h1>
                 <table className="details-table">
