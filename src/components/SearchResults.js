@@ -6,7 +6,6 @@ export const SearchResults = ({ results }) => { // Assuming results are passed a
     return (
         <div className='search-results'>
             {results.map((result, id) => {
-                console.log(result);
                 return <SearchResult result={result} key={id}></SearchResult>
             })}
         </div>

@@ -9,11 +9,14 @@ export const SearchBar = ({setResults}) => {
 
     const handleChange = (value) => {
         setInput(value);
-        const results = giftsData.filter((giftsData) => {
+        let results = giftsData.filter((giftsData) => {
             return value && giftsData && giftsData.Gift && giftsData.Gift.toLowerCase().startsWith(value);
         })
-        setResults(results);
+        results = results.map((gift) => {
+            return {Gift: gift.Gift};
+        })
         console.log(results);
+        setResults(results);
     }
 
     return <div className="input-wrapper">

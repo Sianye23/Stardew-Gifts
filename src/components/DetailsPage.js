@@ -5,13 +5,12 @@ import "./DetailsPage.css"
 import giftsData from "./gifts.json";
 
 export const DetailsPage = () => {
-    const information = useLocation().state
-    const gift = information.Gift;
+    const giftName = useLocation().pathname.slice(1).replace("_", " ");
 
+    const giftInformation = giftsData.find(obj => obj.Gift === giftName);
 
     function clean(villagers) {
         const villagersArray = villagers.split('-');
-        console.log(villagersArray.length)
         if (villagersArray.length === 1){
             return []
         }
@@ -20,11 +19,11 @@ export const DetailsPage = () => {
         }
     }
 
-    const love = clean(information.Love);
-    const like = clean(information.Like);
-    const neutral = clean(information.Neutral);
-    const dislike = clean(information.Dislike);
-    const hate = clean(information.Hate);
+    const love = clean(giftInformation.Love);
+    const like = clean(giftInformation.Like);
+    const neutral = clean(giftInformation.Neutral);
+    const dislike = clean(giftInformation.Dislike);
+    const hate = clean(giftInformation.Hate);
 
 
 
@@ -32,7 +31,7 @@ export const DetailsPage = () => {
     return (
         <div>
             <div>
-                <h1 style={{fontSize: 64, marginBottom: 20}}>{gift}</h1>
+                <h1 style={{fontSize: 64, marginBottom: 20}}>{giftName}</h1>
                 <table className="details-table">
                     <tbody>
                     <tr>
